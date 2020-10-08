@@ -1,0 +1,12 @@
+1. Turn on Server
+2. Server > Manage > Add Roles & Features
+3. Install IIS, Client Server
+4. Right click Sites on the side > add website
+5. Add a name for your website in "Site Name"
+6. Browse to the location of your website in the "physical location" setup
+7. Leave host name blank under "host name"
+8. Click done
+9. Right click on your new site 
+10. Hover over "Manage Wesbite"
+11. Click "Browse to...".
+12. See website
