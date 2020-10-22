@@ -7,6 +7,8 @@
 7. Leave host name blank under "host name"
 8. Click done
 9. Right click on your new site 
-10. Hover over "Manage Wesbite"
-11. Click "Browse to...".
-12. See website
+10. Click "edit bindings"
+11. Set the first website's port to 80.
+12. Check if you can see website on other computers on the network
+13. Repeat steps 4-10 fir second website
+14. Set the second website's port to something other than 80.
